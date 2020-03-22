@@ -1,6 +1,7 @@
 ## Scripts to run the application
 
 `npm install`
+
 `grunt serve`
 
 
