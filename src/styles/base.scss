@@ -1,0 +1,20 @@
+@import './reset';
+@import './font';
+@import './image-list';
+
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+    h1 {
+        font-size: 34px;
+    }
+}
+
+.component-container {
+    margin-top: 40px;
+}

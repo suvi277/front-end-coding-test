@@ -1,0 +1,5 @@
+{
+    "title": "Component Rendered with data json using assemble",
+    "description": "Add the components from includes in this page",
+    "optionText": "Component Rendered with Ajax with same hbs template" 
+}

@@ -1,0 +1,13 @@
+<ul class="image-list">
+    {{#each data}}
+        {{#if image }}
+            <li>
+                <a href={{url}} title={{title}} _target="blank">
+                    <img src={{image}} alt={{title}}/>
+                    <h4 class="headline">{{title}}</h4>
+                    <p class="tagline">{{author}}</p>
+                </a>
+            </li>
+        {{/if}}
+    {{/each}}
+</ul>
