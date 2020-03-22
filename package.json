@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "predeploy": "grunt build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d public"
   },
   "author": "",
   "license": "ISC",
