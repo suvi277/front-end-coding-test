@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,400&display=swap");
+ul {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+body {
+  padding: 0; }
+
+.image-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px; }
+  .image-list li {
+    margin: 10px 15px;
+    word-break: break-word;
+    width: calc(100% / 2 - 30px);
+    transition: transform 1s ease;
+    will-change: transform; }
+    .image-list li > a {
+      text-decoration: none;
+      color: #333;
+      display: block; }
+      .image-list li > a:hover, .image-list li > a:active {
+        color: #f60; }
+    .image-list li img {
+      width: 100%; }
+    .image-list li:hover {
+      transform: scale(1.1); }
+    .image-list li .headline {
+      margin: 12px 0 5px; }
+    .image-list li .tagline {
+      font-size: 12px;
+      margin: 0; }
+    @media screen and (min-device-width: 768px) {
+      .image-list li {
+        width: calc(100% / 4 - 30px); } }
+    @media screen and (min-device-width: 1024px) {
+      .image-list li {
+        width: calc(100% / 6 - 30px); } }
+
+body {
+  font-family: 'Muli', sans-serif; }
+
+.container {
+  width: 80%;
+  margin: 0 auto; }
+  .container h1 {
+    font-size: 34px; }
+
+.component-container {
+  margin-top: 40px; }
+
+/*# sourceMappingURL=base.css.map */

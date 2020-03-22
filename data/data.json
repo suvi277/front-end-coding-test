@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Selected Poems: Keats",
+        "author": "John Keats",
+        "url": "https://www.penguin.co.uk/books/33867/selected-poems--keats/9780140424478.html",
+        "image": "img/one.jpg"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison<script>alert(123)</script>",
+        "url": "https://www.penguin.co.uk/books/1032964/beloved/9780099760115.html",
+        "image": "img/two.jpg"
+    },
+    {
+        "title": "An Inspector Calls and Other Plays",
+        "author": "J. B. Priestley",
+        "url": "https://www.penguin.co.uk/books/57274/an-inspector-calls-and-other-plays/9780141185354.html",
+        "image": "img/three.jpg"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "url": "https://www.penguin.co.uk/books/57033/animal-farm/9780141182704.html",
+        "image": "img/four.jpg"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "url": "https://www.penguin.co.uk/books/183707/wuthering-heights/12345.html",
+        "image": "img/five.jpg"
+    },
+    {
+        "title": "Macbeth",
+        "url": "https://www.penguin.co.uk/books/54666/macbeth/9780141396316.html",
+        "image": "img/six.jpg"
+    }
+]
